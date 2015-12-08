@@ -1,0 +1,17 @@
+.gameWrapper{
+	width:90%;
+}
+
+header{
+	text-align:center;
+}
+
+.red1{
+	background-color: #ef5350;
+	border:1px black solid;
+}
+
+.red2{
+	background-color: #d32f2f;
+	border:1px black solid;
+}
